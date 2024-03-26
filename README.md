@@ -6,4 +6,5 @@ Desafio 04 do Explorer da Rocketseat, que teve como objetivo criar uma página d
 
 Rocketseat Explorer Challenge 04, which aimed to create an ice cream page called Space Cream, to practice using responsive layouts taking into account the Mobile First concept. In this project, the following were used: Mobile First rule; flexible measurement units; variables in CSS; animations and transitions with CSS; CSS Grid Layout; Media Queries. In the implemented animation, when loading the screen, the images go up while the types of ice cream go down. The main differences between the Desktop and Mobile versions are that the Desktop version features duplicate images and a footer which are not available in the Mobile version, while it does not display the ice cream types above the images.
 
-![Desafio "Space Cream"](https://github.com/fabianolxs/space-cream/blob/main/assets/space-cream.png)
+![image](https://github.com/FabianoLXS/spaceCream/assets/47800473/d1145ab5-6b73-4a59-8bdf-9d0a46174ebf)
+
